@@ -2,3 +2,4 @@
 *.jar
 *.jar
 chap01/untitled/gradle/wrapper/gradle-wrapper.jar
+.DS_Store
