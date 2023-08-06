@@ -1,0 +1,23 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+k
+;src/main/java/dev/davivieira/domain/policy/EventParser.java,1/f/1f26d2ea30b5fde84b06e0fcfaafa8278c2acb8c
+l
+<src/main/java/dev/davivieira/domain/service/EventSearch.java,c/7/c72e9f5344cbad365076671c95e269f68c6e711e
+q
+Asrc/main/java/dev/davivieira/domain/service/NetworkOperation.java,b/6/b64baa8a13e2c309a63473a11d6e5be1e867829e
+m
+=src/main/java/dev/davivieira/domain/service/RouterSearch.java,c/b/cba6f4c42e3e4f737d04ff82071763314a2749a3
+ˆ
+Xsrc/main/java/dev/davivieira/framework/adapters/input/rest/RouterNetworkRestAdapter.java,b/2/b2d9efafb452d5a9a962f9c2827ad32fdeaa1e1f
+ˆ
+Xsrc/main/java/dev/davivieira/framework/adapters/input/stdin/RouterNetworkCLIAdapter.java,d/d/dd96b8078e4378927d31badf047c2ad51b58eb2a
+…
+Usrc/main/java/dev/davivieira/framework/adapters/input/stdin/RouterViewCLIAdapter.java,6/c/6c0a1f3f9a038b6bc740d7741321cb940df5e2ac
+
+Osrc/main/java/dev/davivieira/framework/adapters/input/RouterNetworkAdapter.java,f/7/f77442ee7b5c36ed19d31eb67ad1a675398d40d2
+^
+.src/main/java/dev/davivieira/domain/vo/IP.java,7/2/72521054740d2a1581a11da0492fbc16b42c63e1
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
